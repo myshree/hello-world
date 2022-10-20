@@ -15,7 +15,7 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="phonumber"><b>Enter phone number</b></label>
+    <label for="phonumber"><b>Enter valid phone number</b></label>
     <input type="text" placeholder="Enter a phone number" name="phone" id="name" required>
     <br>
 
