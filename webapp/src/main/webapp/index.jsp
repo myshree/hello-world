@@ -19,7 +19,7 @@
     <input type="text" placeholder="Enter a phone number" name="phone" id="name" required>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
+    <label for="email"><b>Enter a Email id:</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
